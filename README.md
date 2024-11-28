@@ -1,16 +1,30 @@
-# newlist
+# To-Do List App - Desafio Técnico Fibbo  📝 
 
-A new Flutter project.
+Este é um aplicativo de lista de tarefas desenvolvido com Flutter. O objetivo do projeto é fornecer uma interface para gerenciar tarefas diárias, com funcionalidades de criar, editar, marcar como concluído e excluir tarefas.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ **Adicionar tarefas**: Crie novas tarefas com título e descrição.
+- ✏️ **Editar tarefas**: Atualize os detalhes das suas tarefas.
+- 🔄 **Alterar status**: Marque tarefas como concluídas ou pendentes.
+- 🗑️ **Excluir tarefas**: Remova tarefas da lista.
+- 🔍 **Filtro de tarefas**: Filtre tarefas por status (concluídas ou pendentes).
+- ☁️ **Sincronização em nuvem**: Sincronize tarefas entre dispositivos com Firebase.
+- 💾 **Persistência de dados**: Armazene tarefas localmente para acesso offline.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Tecnologias Utilizadas
+
+- **Flutter**: Framework de desenvolvimento multiplataforma.
+- **Dart**: Linguagem de programação usada no Flutter.
+- **Firebase**: Backend-as-a-Service para autenticação e armazenamento em tempo real:
+- **Cloud Firestore**: Armazenamento de dados em nuvem.
+- **SharedPreferences**: Armazenamento local de dados.
+- **Material Design**: Interface baseada no padrão do Google.
+
+---
+
+
