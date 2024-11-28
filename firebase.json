@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"fibbo-todolist","appId":"1:145093206167:android:de31303db362b4b8d8c9d2","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"fibbo-todolist","configurations":{"android":"1:145093206167:android:de31303db362b4b8d8c9d2","ios":"1:145093206167:ios:075116f1ab7a3d98d8c9d2"}}}}}}
