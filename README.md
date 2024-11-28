@@ -25,7 +25,7 @@ Este é um aplicativo de lista de tarefas desenvolvido com Flutter. O objetivo d
 - **SharedPreferences**: Armazenamento local de dados.
 - **Material Design**: Interface baseada no padrão do Google.
 
-## Link da apresentação do projeto: https://youtu.be/0Oph_lK2joE
+## ▶️ Link da apresentação do projeto: https://youtu.be/0Oph_lK2joE
 
 ## 🎥 Demonstração
 
