@@ -28,3 +28,24 @@ Este é um aplicativo de lista de tarefas desenvolvido com Flutter. O objetivo d
 ## 🎥 Demonstração
 
 ![Demonstração do App](https://raw.githubusercontent.com/w-felipe360/images/refs/heads/main/EXAMPLE.gif)
+
+### 🛠️ Como Executar
+
+# Clone este repositório
+```bash
+git clone https://github.com/seu-usuario/flutter-todolist.git
+```
+# Navegue até o diretório do projeto
+```bash
+cd flutter-todolist
+```
+
+# Instale as dependências do Flutter
+```bash
+flutter pub get
+```
+
+```bash
+# Execute o aplicativo em um emulador ou dispositivo físico conectado
+flutter run
+```
