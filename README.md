@@ -45,7 +45,7 @@ cd flutter-todolist
 flutter pub get
 ```
 
-```bash
 # Execute o aplicativo em um emulador ou dispositivo físico conectado
+```bash
 flutter run
 ```
